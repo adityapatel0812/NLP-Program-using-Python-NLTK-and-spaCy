@@ -95,7 +95,7 @@ Advanced-NLP-Experiments/
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Aditya Patel**
 
 ## 📄 License
 
