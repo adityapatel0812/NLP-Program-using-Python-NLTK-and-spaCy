@@ -108,7 +108,7 @@ NLP-Experiments/
 
 ## 👨‍💻 Author
 
-**Alok Yadav**
+**Aditya Patel**
 
 ## 📄 License
 
