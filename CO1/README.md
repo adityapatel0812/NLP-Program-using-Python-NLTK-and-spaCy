@@ -303,7 +303,7 @@ The programs demonstrate how raw text can be processed, transformed, and analyze
 
 **Aditya Patel**
 
-GitHub: [AlokYadav1251](https://github.com/adityapatel0812)
+GitHub: [adityapatel0812](https://github.com/adityapatel0812)
 
 ---
 
